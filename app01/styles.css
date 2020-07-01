@@ -1,0 +1,37 @@
+html, 
+body, 
+#app{
+    height: 100%;
+    margin: 0;
+}
+
+/*# quando é id*/
+#app {
+    display: flex; /*alinha horixontamente*/ 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center; /*alinhar os elementos quando estao e mais de uma linha*/
+}
+
+
+/*. quando é class*/
+.box{
+    width: 400px;
+    height: 60px;
+    background: #f00;
+    margin: 5px;
+}
+.red {
+    order: 1;
+    
+}
+.green {
+    background: #0f0;
+    order: 2;
+}
+
+.blue {
+    background: #00F;
+    order: 0;
+}
