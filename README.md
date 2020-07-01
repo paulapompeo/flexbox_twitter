@@ -75,3 +75,8 @@ box-sizing: border-box; → faz um padding interno ex 300 - 20 de cada lado
 **Site para encontrar Icons:**
 
 [https://www.iconfinder.com/](https://www.iconfinder.com/)
+
+
+![WhatsApp Image 2020-07-01 at 10 44 57](https://user-images.githubusercontent.com/47497767/86256399-ac60da00-bb8e-11ea-970f-0044ce52e83b.jpeg)
+![WhatsApp Image 2020-07-01 at 10 44 21](https://user-images.githubusercontent.com/47497767/86256405-acf97080-bb8e-11ea-9dbe-087daac60fc2.jpeg)
+
